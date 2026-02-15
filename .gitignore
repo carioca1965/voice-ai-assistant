@@ -1,5 +1,10 @@
+
 venv/
 __pycache__/
+*.pyc
 .env
-data/*.mp3
-data/*.json
+*.mp3
+*.wav
+.streamlit/
+.DS_Store
+Thumbs.db
